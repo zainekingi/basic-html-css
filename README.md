@@ -1,2 +1,2 @@
-# project-1
-Zane Kingi's Personal Profile Page files for Treehouse Project 1.
+# Basic HTML & CSS Test Site
+Basic HTML and CSS website implementation - R&D CSS flex-box property.
